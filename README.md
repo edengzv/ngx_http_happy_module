@@ -20,7 +20,7 @@ location /happycoding{
 sudo /usr/local/nginx/sbin/nginx -s stop
 sudo /usr/local/nginx/sbin/nginx -s start
 ````
-* 访问localhost/happycoding will display
+* 访问`localhost/happycoding`
 ![happy coding](https://github.com/KanTian/ngx_http_happy_module/blob/master/vv.png)
 
 **Just for fun :)**
