@@ -1,6 +1,8 @@
 ngx_http_happy_module
 
 #usage
+============
+
 * 把模块编译进 [nginx](http://nginx.com/)（或者 [tengine](http://tengine.taobao.org/)）
 ````
 ./configure --add-module=PATH`  PATH 为包含模块的目录
